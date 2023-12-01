@@ -9,8 +9,8 @@ This Python script utilizes the yfinance and matplotlib libraries to fetch stock
 ## Usage
 1. Clone the repository: `git clone https://github.com/yourusername/stock-data-visualization.git`
 2. Navigate to the project directory: `cd stock-data-visualization`
-3. Install the required libraries: `pip install -r requirements.txt`
-4. Run the script: `python stock_data_visualization.py`
+3. Install the required libraries: `pip3 install -r requirements.txt`
+4. Run the script: `python3 stock_data_visualization.py`
 
 Follow the on-screen instructions to input the stock ticker. The script will generate visualizations and save them as PNG files.
 
