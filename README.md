@@ -15,3 +15,5 @@ This Python script utilizes the yfinance and matplotlib libraries to fetch stock
 Follow the on-screen instructions to input the stock ticker. The script will generate visualizations and save them as PNG files.
 
 Feel free to customize and expand upon this script to suit your specific needs.
+
+![MSFT_candlestick_plot](https://github.com/jovanshernandez/stock_analysis_visualization/assets/15150787/ce732d41-f8b3-4cd8-a592-c8b03c5fb249)
