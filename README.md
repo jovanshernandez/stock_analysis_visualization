@@ -1,4 +1,4 @@
-# Stock Data Visualization Script
+# Stock Data Visualizer
 
 This Python script utilizes the yfinance and matplotlib libraries to fetch stock data, calculate the percentage difference, and create a comprehensive visualization. The script generates a candlestick chart representing open, high, low, and close prices, a volume bar chart, and a percentage difference plot. The user is prompted to input a stock ticker, and the script fetches the last 60 days of stock data, excluding weekends and holidays. The resulting visualizations are saved as a PNG file for further analysis.
 
